@@ -1,0 +1,17 @@
+// Boy Harendy simamora
+// 12S24016
+
+Baca dua bilangan bulat bertipe int. Program harus menjumlahkan kedua bilangan tersebut. Jika terjadi integer overflow, cetak: OVERFLOW Jika tidak terjadi overflow, cetak hasil penjumlahan. bagaimana mengetahui itu overflow di java?
+cara compile java di dalam folder gmn
+saat di test nilai tidak dapat di imput, bagaimana cara mengatasinya
+masih tetap tidak bisa saat di uji
+cara mengcompile java di cmd visual studio code
+jelaskan permasalahan dari gambar ini
+cara menghilangkan reasourve leak ini   
+buat dia dalam 1 file dimana kita bisa memilih soal mana untuk di kerjakan menggunakan fungsi if else
+berikut hasil soal nomor 2
+bisa buat metode pilih soal, lalu imput jawaban
+pada soal ke2 menampilkan 0.000000 apa yang terjadi
+bantusaya membuat program Baca dua bilangan desimal. Jumlahkan keduanya menggunakan float Jumlahkan keduanya menggunakan double Hitung selisih absolut dari kedua hasil tersebut Output harus ditampilkan dengan 6 digit di belakang koma.
+masih tetap hasil 0,0000
+mengapa hasil di sini berbeda dengan saya yangdimana hasilnya 0.0000
